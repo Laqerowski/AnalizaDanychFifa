@@ -1,0 +1,609 @@
+0
+: 
+{x: 1528572445000, y: 239.9, shop: "Ea.com", name: "9 Jun 2018 19:27 - 23 Jun 2018 06:22"}
+1
+: 
+{x: 1529734948000, y: 199, shop: "Konsoleigry", name: "23 Jun 2018 06:22 - 19 Sep 2018 10:18"}
+2
+: 
+{x: 1537352289000, y: 194.99, shop: "Konsoleigry", name: "19 Sep 2018 10:18 - 14 Oct 2018 17:49"}
+3
+: 
+{x: 1539539365000, y: 199.9, shop: "Muve.pl", name: "14 Oct 2018 17:49 - 17 Oct 2018 17:25"}
+4
+: 
+{x: 1539797147000, y: 194.99, shop: "Konsoleigry", name: "17 Oct 2018 17:25 - 18 Oct 2018 15:30"}
+5
+: 
+{x: 1539876633000, y: 199.9, shop: "Muve.pl", name: "18 Oct 2018 15:30 - 19 Oct 2018 17:22"}
+6
+: 
+{x: 1539969758000, y: 194.99, shop: "Konsoleigry", name: "19 Oct 2018 17:22 - 20 Oct 2018 16:30"}
+7
+: 
+{x: 1540053035000, y: 199.9, shop: "Muve.pl", name: "20 Oct 2018 16:30 - 23 Oct 2018 13:26"}
+8
+: 
+{x: 1540301213000, y: 194.99, shop: "Konsoleigry", name: "23 Oct 2018 13:26 - 23 Oct 2018 17:19"}
+9
+: 
+{x: 1540315145000, y: 166.6, shop: "Ea.com", name: "23 Oct 2018 17:19 - 1 Nov 2018 19:18"}
+10
+: 
+{x: 1541099930000, y: 194.99, shop: "Konsoleigry", name: "1 Nov 2018 19:18 - 6 Nov 2018 16:19"}
+11
+: 
+{x: 1541521141000, y: 187.42, shop: "Ea.com", name: "6 Nov 2018 16:19 - 8 Nov 2018 17:10"}
+12
+: 
+{x: 1541697045000, y: 194.99, shop: "Konsoleigry", name: "8 Nov 2018 17:10 - 17 Nov 2018 11:30"}
+13
+: 
+{x: 1542454232000, y: 199.9, shop: "Muve.pl", name: "17 Nov 2018 11:30 - 19 Nov 2018 06:00"}
+14
+: 
+{x: 1542607227000, y: 149.9, shop: "Muve.pl", name: "19 Nov 2018 06:00 - 24 Nov 2018 22:04"}
+15
+: 
+{x: 1543097040000, y: 139.99, shop: "Konsoleigry", name: "24 Nov 2018 22:04 - 25 Nov 2018 15:51"}
+16
+: 
+{x: 1543161110000, y: 149.94, shop: "Ea.com", name: "25 Nov 2018 15:51 - 27 Nov 2018 18:39"}
+17
+: 
+{x: 1543343968000, y: 166.6, shop: "Ea.com", name: "27 Nov 2018 18:39 - 29 Nov 2018 17:11"}
+18
+: 
+{x: 1543511473000, y: 199.9, shop: "Muve.pl", name: "29 Nov 2018 17:11 - 1 Dec 2018 14:28"}
+19
+: 
+{x: 1543674494000, y: 139.99, shop: "Konsoleigry", name: "1 Dec 2018 14:28 - 2 Dec 2018 13:30"}
+20
+: 
+{x: 1543757439000, y: 199.9, shop: "Muve.pl", name: "2 Dec 2018 13:30 - 6 Dec 2018 18:26"}
+21
+: 
+{x: 1544120801000, y: 149.94, shop: "Ea.com", name: "6 Dec 2018 18:26 - 9 Dec 2018 23:22"}
+22
+: 
+{x: 1544397759000, y: 139.9, shop: "Muve.pl", name: "9 Dec 2018 23:22 - 13 Dec 2018 13:06"}
+23
+: 
+{x: 1544706415000, y: 139, shop: "Konsoleigry", name: "13 Dec 2018 13:06 - 18 Dec 2018 19:30"}
+24
+: 
+{x: 1545161458000, y: 139.9, shop: "Muve.pl", name: "18 Dec 2018 19:30 - 20 Dec 2018 16:27"}
+25
+: 
+{x: 1545323260000, y: 124.95, shop: "Ea.com", name: "20 Dec 2018 16:27 - 11 Jan 2019 18:34"}
+26
+: 
+{x: 1547231655000, y: 196.9, shop: "Muve Klucze", name: "11 Jan 2019 18:34 - 21 Jan 2019 10:27"}
+27
+: 
+{x: 1548066424000, y: 129.9, shop: "Muve.pl", name: "21 Jan 2019 10:27 - 27 Jan 2019 11:05"}
+28
+: 
+{x: 1548587149000, y: 119.99, shop: "Konsoleigry", name: "27 Jan 2019 11:05 - 29 Jan 2019 22:30"}
+29
+: 
+{x: 1548801039000, y: 129.9, shop: "Muve.pl", name: "29 Jan 2019 22:30 - 3 Feb 2019 23:02"}
+30
+: 
+{x: 1549234929000, y: 196.9, shop: "Muve Klucze", name: "3 Feb 2019 23:02 - 5 Feb 2019 13:01"}
+31
+: 
+{x: 1549371676000, y: 193.9, shop: "Muve Klucze", name: "5 Feb 2019 13:01 - 11 Feb 2019 00:01"}
+32
+: 
+{x: 1549843299000, y: 124.9, shop: "Muve.pl", name: "11 Feb 2019 00:01 - 19 Feb 2019 13:05"}
+33
+: 
+{x: 1550581525000, y: 119, shop: "Konsoleigry", name: "19 Feb 2019 13:05 - 20 Feb 2019 20:30"}
+34
+: 
+{x: 1550694634000, y: 124.9, shop: "Muve.pl", name: "20 Feb 2019 20:30 - 27 Feb 2019 20:57"}
+35
+: 
+{x: 1551301024000, y: 119.9, shop: "Sklep Gry-OnLine", name: "27 Feb 2019 20:57 - 3 Mar 2019 23:04"}
+36
+: 
+{x: 1551654289000, y: 124.9, shop: "Muve.pl", name: "3 Mar 2019 23:04 - 4 Mar 2019 00:00"}
+37
+: 
+{x: 1551657621000, y: 141.9, shop: "Sklep Gry-OnLine", name: "4 Mar 2019 00:00 - 5 Mar 2019 16:21"}
+38
+: 
+{x: 1551802869000, y: 99.96, shop: "Ea.com", name: "5 Mar 2019 16:21 - 15 Mar 2019 13:00"}
+39
+: 
+{x: 1552654824000, y: 78.9, shop: "Sklep Gry-OnLine", name: "15 Mar 2019 13:00 - 16 Mar 2019 15:30"}
+40
+: 
+{x: 1552750221000, y: 83.9, shop: "Muve.pl", name: "16 Mar 2019 15:30 - 19 Mar 2019 15:00"}
+41
+: 
+{x: 1553007637000, y: 78.9, shop: "Sklep Gry-OnLine", name: "19 Mar 2019 15:00 - 1 Apr 2019 00:00"}
+42
+: 
+{x: 1554076801000, y: 119, shop: "Konsoleigry", name: "1 Apr 2019 00:00 - 7 Apr 2019 12:05"}
+43
+: 
+{x: 1554638722000, y: 109, shop: "Konsoleigry", name: "7 Apr 2019 12:05 - 11 Apr 2019 15:17"}
+44
+: 
+{x: 1554995864000, y: 83.3, shop: "Ea.com", name: "11 Apr 2019 15:17 - 26 Apr 2019 01:18"}
+45
+: 
+{x: 1556241504000, y: 109.9, shop: "Sklep Gry-OnLine", name: "26 Apr 2019 01:18 - 28 Apr 2019 22:06"}
+46
+: 
+{x: 1556489176000, y: 112.9, shop: "Muve.pl", name: "28 Apr 2019 22:06 - 28 Apr 2019 23:00"}
+47
+: 
+{x: 1556492456000, y: 118.9, shop: "Sklep Gry-OnLine", name: "28 Apr 2019 23:00 - 30 Apr 2019 09:30"}
+48
+: 
+{x: 1556616627000, y: 199.9, shop: "Muve.pl", name: "30 Apr 2019 09:30 - 7 May 2019 13:00"}
+49
+: 
+{x: 1557234018000, y: 121.9, shop: "Muve Klucze", name: "7 May 2019 13:00 - 7 May 2019 13:00"}
+50
+: 
+{x: 1557234021000, y: 118.9, shop: "Sklep Gry-OnLine", name: "7 May 2019 13:00 - 13 May 2019 12:30"}
+51
+: 
+{x: 1557750642000, y: 134.99, shop: "Ultima.pl", name: "13 May 2019 12:30 - 13 May 2019 15:30"}
+52
+: 
+{x: 1557761407000, y: 199.9, shop: "Muve.pl", name: "13 May 2019 15:30 - 19 May 2019 22:09"}
+53
+: 
+{x: 1558303773000, y: 85.9, shop: "Sklep Gry-OnLine", name: "19 May 2019 22:09 - 28 May 2019 17:22"}
+54
+: 
+{x: 1559064133000, y: 83.3, shop: "Ea.com", name: "28 May 2019 17:22 - 3 Jun 2019 18:20"}
+55
+: 
+{x: 1559586020000, y: 132.9, shop: "Sklep Gry-OnLine", name: "3 Jun 2019 18:20 - 6 Jun 2019 15:23"}
+56
+: 
+{x: 1559834607000, y: 83.3, shop: "Ea.com", name: "6 Jun 2019 15:23 - 20 Jun 2019 18:22"}
+57
+: 
+{x: 1561054970000, y: 129.9, shop: "Sklep Gry-OnLine", name: "20 Jun 2019 18:22 - 25 Jun 2019 13:00"}
+58
+: 
+{x: 1561467619000, y: 109.9, shop: "Muve.pl", name: "25 Jun 2019 13:00 - 25 Jun 2019 13:00"}
+59
+: 
+{x: 1561467622000, y: 99.9, shop: "Sklep Gry-OnLine", name: "25 Jun 2019 13:00 - 4 Jul 2019 17:20"}
+60
+: 
+{x: 1562260844000, y: 83.3, shop: "Ea.com", name: "4 Jul 2019 17:20 - 11 Jul 2019 18:19"}
+61
+: 
+{x: 1562869185000, y: 119.9, shop: "Sklep Gry-OnLine", name: "11 Jul 2019 18:19 - 15 Jul 2019 11:00"}
+62
+: 
+{x: 1563188420000, y: 114.9, shop: "Muve.pl", name: "15 Jul 2019 11:00 - 21 Jul 2019 22:29"}
+63
+: 
+{x: 1563748196000, y: 98.9, shop: "Sklep Gry-OnLine", name: "21 Jul 2019 22:29 - 4 Aug 2019 22:17"}
+64
+: 
+{x: 1564957058000, y: 114.9, shop: "Muve.pl", name: "4 Aug 2019 22:17 - 15 Aug 2019 15:18"}
+65
+: 
+{x: 1565882328000, y: 37.48, shop: "Ea.com", name: "15 Aug 2019 15:18 - 29 Aug 2019 18:24"}
+66
+: 
+{x: 1567103088000, y: 54.9, shop: "Muve.pl", name: "29 Aug 2019 18:24 - 1 Sep 2019 09:00"}
+67
+: 
+{x: 1567328416000, y: 249.9, shop: "Ea.com", name: "1 Sep 2019 09:00 - 30 Sep 2019 07:21"}
+68
+: 
+{x: 1569828100000, y: 139.9, shop: "Ea.com", name: "30 Sep 2019 07:21 - 20 Dec 2019 01:05"}
+69
+: 
+{x: 1576803929000, y: 109.9, shop: "Muve.pl", name: "20 Dec 2019 01:05 - 21 Dec 2019 02:00"}
+70
+: 
+{x: 1576893638000, y: 139.9, shop: "Ea.com", name: "21 Dec 2019 02:00 - 25 Dec 2019 01:00"}
+71
+: 
+{x: 1577235646000, y: 109.9, shop: "Muve.pl", name: "25 Dec 2019 01:00 - 25 Dec 2019 02:00"}
+72
+: 
+{x: 1577239241000, y: 139.9, shop: "Ea.com", name: "25 Dec 2019 02:00 - 27 Dec 2019 01:02"}
+73
+: 
+{x: 1577408574000, y: 109.9, shop: "Muve.pl", name: "27 Dec 2019 01:02 - 27 Dec 2019 02:00"}
+74
+: 
+{x: 1577412030000, y: 139.9, shop: "Ea.com", name: "27 Dec 2019 02:00 - 30 Dec 2019 01:13"}
+75
+: 
+{x: 1577668399000, y: 109.9, shop: "Muve.pl", name: "30 Dec 2019 01:13 - 30 Dec 2019 02:00"}
+76
+: 
+{x: 1577671235000, y: 139.9, shop: "Ea.com", name: "30 Dec 2019 02:00 - 1 Jan 2020 01:08"}
+77
+: 
+{x: 1577840902000, y: 109.9, shop: "Muve.pl", name: "1 Jan 2020 01:08 - 1 Jan 2020 02:00"}
+78
+: 
+{x: 1577844034000, y: 139.9, shop: "Ea.com", name: "1 Jan 2020 02:00 - 3 Jan 2020 01:02"}
+79
+: 
+{x: 1578013367000, y: 109.9, shop: "Muve.pl", name: "3 Jan 2020 01:02 - 3 Jan 2020 18:30"}
+80
+: 
+{x: 1578076234000, y: 109.12, shop: "Ea.com", name: "3 Jan 2020 18:30 - 8 Jan 2020 01:00"}
+81
+: 
+{x: 1578445236000, y: 109.9, shop: "Muve.pl", name: "8 Jan 2020 01:00 - 10 Jan 2020 02:00"}
+82
+: 
+{x: 1578621623000, y: 139.9, shop: "Ea.com", name: "10 Jan 2020 02:00 - 20 Jan 2020 01:03"}
+83
+: 
+{x: 1579482232000, y: 109.9, shop: "Muve.pl", name: "20 Jan 2020 01:03 - 20 Jan 2020 02:00"}
+84
+: 
+{x: 1579485636000, y: 139.9, shop: "Ea.com", name: "20 Jan 2020 02:00 - 25 Jan 2020 01:01"}
+85
+: 
+{x: 1579914073000, y: 109.9, shop: "Muve.pl", name: "25 Jan 2020 01:01 - 25 Jan 2020 02:00"}
+86
+: 
+{x: 1579917642000, y: 139.9, shop: "Ea.com", name: "25 Jan 2020 02:00 - 2 Feb 2020 01:00"}
+87
+: 
+{x: 1580605238000, y: 109.9, shop: "Muve.pl", name: "2 Feb 2020 01:00 - 3 Feb 2020 02:00"}
+88
+: 
+{x: 1580695222000, y: 139.9, shop: "Ea.com", name: "3 Feb 2020 02:00 - 4 Feb 2020 12:00"}
+89
+: 
+{x: 1580817618000, y: 123.9, shop: "Muve Klucze", name: "4 Feb 2020 12:00 - 4 Feb 2020 12:00"}
+90
+: 
+{x: 1580817623000, y: 121.9, shop: "Sklep Gry-OnLine", name: "4 Feb 2020 12:00 - 5 Feb 2020 01:00"}
+91
+: 
+{x: 1580864442000, y: 109.9, shop: "Muve.pl", name: "5 Feb 2020 01:00 - 5 Feb 2020 02:00"}
+92
+: 
+{x: 1580868024000, y: 121.9, shop: "Sklep Gry-OnLine", name: "5 Feb 2020 02:00 - 8 Feb 2020 01:00"}
+93
+: 
+{x: 1581123642000, y: 109.9, shop: "Muve.pl", name: "8 Feb 2020 01:00 - 8 Feb 2020 02:00"}
+94
+: 
+{x: 1581127222000, y: 130.9, shop: "Sklep Gry-OnLine", name: "8 Feb 2020 02:00 - 23 Feb 2020 00:00"}
+95
+: 
+{x: 1582416033000, y: 132.9, shop: "Muve Klucze", name: "23 Feb 2020 00:00 - 23 Feb 2020 00:00"}
+96
+: 
+{x: 1582416034000, y: 133.9, shop: "Sklep Gry-OnLine", name: "23 Feb 2020 00:00 - 10 Mar 2020 22:00"}
+97
+: 
+{x: 1583877631000, y: 137.9, shop: "Sklep Gry-OnLine", name: "10 Mar 2020 22:00 - 20 Mar 2020 01:01"}
+98
+: 
+{x: 1584666062000, y: 109.9, shop: "Muve.pl", name: "20 Mar 2020 01:01 - 20 Mar 2020 02:00"}
+99
+: 
+{x: 1584669641000, y: 139.9, shop: "Ea.com", name: "20 Mar 2020 02:00 - 5 Apr 2020 00:01"}
+100
+: 
+{x: 1586044861000, y: 109.9, shop: "Muve.pl", name: "5 Apr 2020 00:01 - 6 Apr 2020 01:00"}
+101
+: 
+{x: 1586134827000, y: 139.9, shop: "Ea.com", name: "6 Apr 2020 01:00 - 28 Apr 2020 05:00"}
+102
+: 
+{x: 1588050016000, y: 132.9, shop: "Muve Klucze", name: "28 Apr 2020 05:00 - 28 Apr 2020 05:00"}
+103
+: 
+{x: 1588050023000, y: 136.9, shop: "Sklep Gry-OnLine", name: "28 Apr 2020 05:00 - 28 Apr 2020 16:46"}
+104
+: 
+{x: 1588092417000, y: 139.9, shop: "Ea.com", name: "28 Apr 2020 16:46 - 30 Apr 2020 14:04"}
+105
+: 
+{x: 1588255477000, y: 132.9, shop: "Muve Klucze", name: "30 Apr 2020 14:04 - 30 Apr 2020 14:04"}
+106
+: 
+{x: 1588255480000, y: 130.9, shop: "Sklep Gry-OnLine", name: "30 Apr 2020 14:04 - 30 Apr 2020 17:10"}
+107
+: 
+{x: 1588266655000, y: 139.9, shop: "Ea.com", name: "30 Apr 2020 17:10 - 11 May 2020 20:00"}
+108
+: 
+{x: 1589227215000, y: 96.9, shop: "Muve Klucze", name: "11 May 2020 20:00 - 11 May 2020 20:00"}
+109
+: 
+{x: 1589227221000, y: 94.9, shop: "Sklep Gry-OnLine", name: "11 May 2020 20:00 - 12 May 2020 23:00"}
+110
+: 
+{x: 1589324419000, y: 92.9, shop: "Muve Klucze", name: "12 May 2020 23:00 - 12 May 2020 23:00"}
+111
+: 
+{x: 1589324423000, y: 91.9, shop: "Sklep Gry-OnLine", name: "12 May 2020 23:00 - 16 May 2020 02:00"}
+112
+: 
+{x: 1589594422000, y: 91.9, shop: "Muve Klucze", name: "16 May 2020 02:00 - 16 May 2020 02:00"}
+113
+: 
+{x: 1589594429000, y: 89.9, shop: "Sklep Gry-OnLine", name: "16 May 2020 02:00 - 21 May 2020 15:02"}
+114
+: 
+{x: 1590073320000, y: 85.9, shop: "Sklep Gry-OnLine", name: "21 May 2020 15:02 - 21 May 2020 18:51"}
+115
+: 
+{x: 1590087081000, y: 139.9, shop: "Sklep Gry-OnLine", name: "21 May 2020 18:51 - 22 May 2020 08:00"}
+116
+: 
+{x: 1590134434000, y: 139.9, shop: "Ea.com", name: "22 May 2020 08:00 - 22 May 2020 19:00"}
+117
+: 
+{x: 1590174028000, y: 138.9, shop: "Sklep Gry-OnLine", name: "22 May 2020 19:00 - 29 May 2020 15:00"}
+118
+: 
+{x: 1590764433000, y: 134.9, shop: "Muve Klucze", name: "29 May 2020 15:00 - 29 May 2020 15:00"}
+119
+: 
+{x: 1590764442000, y: 131.9, shop: "Sklep Gry-OnLine", name: "29 May 2020 15:00 - 1 Jun 2020 10:00"}
+120
+: 
+{x: 1591005619000, y: 127.9, shop: "Muve Klucze", name: "1 Jun 2020 10:00 - 1 Jun 2020 10:00"}
+121
+: 
+{x: 1591005635000, y: 124.9, shop: "Sklep Gry-OnLine", name: "1 Jun 2020 10:00 - 8 Jun 2020 08:00"}
+122
+: 
+{x: 1591603243000, y: 67.9, shop: "Sklep Gry-OnLine", name: "8 Jun 2020 08:00 - 16 Jun 2020 07:00"}
+123
+: 
+{x: 1592290835000, y: 65.9, shop: "Muve Klucze", name: "16 Jun 2020 07:00 - 16 Jun 2020 07:00"}
+124
+: 
+{x: 1592290838000, y: 64.9, shop: "Sklep Gry-OnLine", name: "16 Jun 2020 07:00 - 20 Aug 2020 13:00"}
+125
+: 
+{x: 1597928433000, y: 49.9, shop: "Muve Klucze", name: "20 Aug 2020 13:00 - 20 Aug 2020 13:09"}
+126
+: 
+{x: 1597928943000, y: 48.9, shop: "Sklep Gry-OnLine", name: "20 Aug 2020 13:09 - 20 Aug 2020 15:00"}
+127
+: 
+{x: 1597935634000, y: 130.9, shop: "Sklep Gry-OnLine", name: "20 Aug 2020 15:00 - 22 Aug 2020 14:00"}
+128
+: 
+{x: 1598104815000, y: 54.9, shop: "Muve Klucze", name: "22 Aug 2020 14:00 - 22 Aug 2020 15:00"}
+129
+: 
+{x: 1598108432000, y: 129.9, shop: "Sklep Gry-OnLine", name: "22 Aug 2020 15:00 - 25 Aug 2020 18:01"}
+130
+: 
+{x: 1598378497000, y: 55.9, shop: "Muve Klucze", name: "25 Aug 2020 18:01 - 25 Aug 2020 18:02"}
+131
+: 
+{x: 1598378543000, y: 54.9, shop: "Sklep Gry-OnLine", name: "25 Aug 2020 18:02 - 25 Aug 2020 19:00"}
+132
+: 
+{x: 1598382028000, y: 129.9, shop: "Sklep Gry-OnLine", name: "25 Aug 2020 19:00 - 27 Aug 2020 11:00"}
+133
+: 
+{x: 1598526027000, y: 55.9, shop: "Muve Klucze", name: "27 Aug 2020 11:00 - 27 Aug 2020 11:00"}
+134
+: 
+{x: 1598526031000, y: 54.9, shop: "Sklep Gry-OnLine", name: "27 Aug 2020 11:00 - 31 Aug 2020 09:00"}
+135
+: 
+{x: 1598864442000, y: 55.9, shop: "Sklep Gry-OnLine", name: "31 Aug 2020 09:00 - 7 Sep 2020 08:00"}
+136
+: 
+{x: 1599465650000, y: 131.9, shop: "Sklep Gry-OnLine", name: "7 Sep 2020 08:00 - 11 Sep 2020 23:00"}
+137
+: 
+{x: 1599865230000, y: 118.9, shop: "Sklep Gry-OnLine", name: "11 Sep 2020 23:00 - 21 Sep 2020 09:00"}
+138
+: 
+{x: 1600678836000, y: 121.9, shop: "Muve Klucze", name: "21 Sep 2020 09:00 - 21 Sep 2020 10:00"}
+139
+: 
+{x: 1600682427000, y: 134.9, shop: "Sklep Gry-OnLine", name: "21 Sep 2020 10:00 - 9 Oct 2020 14:00"}
+140
+: 
+{x: 1602252038000, y: 66.9, shop: "Muve Klucze", name: "9 Oct 2020 14:00 - 9 Oct 2020 14:00"}
+141
+: 
+{x: 1602252045000, y: 65.9, shop: "Sklep Gry-OnLine", name: "9 Oct 2020 14:00 - 10 Oct 2020 19:00"}
+142
+: 
+{x: 1602356425000, y: 78.9, shop: "Sklep Gry-OnLine", name: "10 Oct 2020 19:00 - 13 Oct 2020 18:00"}
+143
+: 
+{x: 1602612024000, y: 59.9, shop: "Muve Klucze", name: "13 Oct 2020 18:00 - 13 Oct 2020 18:00"}
+144
+: 
+{x: 1602612042000, y: 58.9, shop: "Sklep Gry-OnLine", name: "13 Oct 2020 18:00 - 18 Oct 2020 19:01"}
+145
+: 
+{x: 1603047687000, y: 78.9, shop: "Sklep Gry-OnLine", name: "18 Oct 2020 19:01 - 23 Oct 2020 05:00"}
+146
+: 
+{x: 1603429227000, y: 61.9, shop: "Muve Klucze", name: "23 Oct 2020 05:00 - 23 Oct 2020 05:00"}
+147
+: 
+{x: 1603429233000, y: 60.9, shop: "Sklep Gry-OnLine", name: "23 Oct 2020 05:00 - 27 Oct 2020 14:00"}
+148
+: 
+{x: 1603807234000, y: 49.9, shop: "Muve Klucze", name: "27 Oct 2020 14:00 - 29 Oct 2020 11:00"}
+149
+: 
+{x: 1603969244000, y: 50.9, shop: "Muve Klucze", name: "29 Oct 2020 11:00 - 30 Oct 2020 11:00"}
+150
+: 
+{x: 1604055649000, y: 47.9, shop: "Muve Klucze", name: "30 Oct 2020 11:00 - 30 Oct 2020 21:01"}
+151
+: 
+{x: 1604091682000, y: 45.9, shop: "Muve Klucze", name: "30 Oct 2020 21:01 - 31 Oct 2020 01:00"}
+152
+: 
+{x: 1604106041000, y: 158.4, shop: "2Game", name: "31 Oct 2020 01:00 - 2 Nov 2020 12:00"}
+153
+: 
+{x: 1604318436000, y: 50.9, shop: "Muve Klucze", name: "2 Nov 2020 12:00 - 10 Nov 2020 12:00"}
+154
+: 
+{x: 1605009634000, y: 46.9, shop: "Muve Klucze", name: "10 Nov 2020 12:00 - 13 Nov 2020 12:00"}
+155
+: 
+{x: 1605268831000, y: 44.9, shop: "Muve Klucze", name: "13 Nov 2020 12:00 - 13 Nov 2020 13:00"}
+156
+: 
+{x: 1605272445000, y: 42.9, shop: "Muve Klucze", name: "13 Nov 2020 13:00 - 16 Nov 2020 10:00"}
+157
+: 
+{x: 1605520839000, y: 41.9, shop: "Muve Klucze", name: "16 Nov 2020 10:00 - 17 Nov 2020 12:00"}
+158
+: 
+{x: 1605614433000, y: 43.9, shop: "Muve Klucze", name: "17 Nov 2020 12:00 - 20 Nov 2020 10:00"}
+159
+: 
+{x: 1605866436000, y: 52.9, shop: "Sklep Gry-OnLine", name: "20 Nov 2020 10:00 - 20 Nov 2020 10:00"}
+160
+: 
+{x: 1605866451000, y: 68.9, shop: "Muve Klucze", name: "20 Nov 2020 10:00 - 24 Nov 2020 01:00"}
+161
+: 
+{x: 1606179646000, y: 123.9, shop: "Muve Klucze", name: "24 Nov 2020 01:00 - 1 Dec 2020 14:00"}
+162
+: 
+{x: 1606831225000, y: 120.9, shop: "Muve Klucze", name: "1 Dec 2020 14:00 - 7 Dec 2020 12:00"}
+163
+: 
+{x: 1607342435000, y: 69.9, shop: "Muve Klucze", name: "7 Dec 2020 12:00 - 7 Dec 2020 17:00"}
+164
+: 
+{x: 1607360430000, y: 62.9, shop: "Muve Klucze", name: "7 Dec 2020 17:00 - 14 Dec 2020 16:00"}
+165
+: 
+{x: 1607961646000, y: 75.9, shop: "Sklep Gry-OnLine", name: "14 Dec 2020 16:00 - 20 Dec 2020 21:00"}
+166
+: 
+{x: 1608498024000, y: 61.9, shop: "Muve Klucze", name: "20 Dec 2020 21:00 - 20 Dec 2020 21:00"}
+167
+: 
+{x: 1608498034000, y: 60.9, shop: "Sklep Gry-OnLine", name: "20 Dec 2020 21:00 - 21 Dec 2020 00:02"}
+168
+: 
+{x: 1608508937000, y: 57.9, shop: "Sklep Gry-OnLine", name: "21 Dec 2020 00:02 - 21 Dec 2020 17:00"}
+169
+: 
+{x: 1608570035000, y: 56.9, shop: "Sklep Gry-OnLine", name: "21 Dec 2020 17:00 - 4 Jan 2021 12:00"}
+170
+: 
+{x: 1609761633000, y: 71.9, shop: "Sklep Gry-OnLine", name: "4 Jan 2021 12:00 - 4 Jan 2021 13:27"}
+171
+: 
+{x: 1609766861000, y: 71.9, shop: "Sklep Gry-OnLine", name: "4 Jan 2021 12:00 - 4 Jan 2021 13:27"}
+172
+: 
+{x: 1609766861001, y: null, shop: null, name: null}
+173
+: 
+{x: 1610370038000, y: 79.9, shop: "Muve Klucze", name: "11 Jan 2021 13:00 - 20 Jan 2021 15:00"}
+174
+: 
+{x: 1611154840000, y: 81.9, shop: "Muve Klucze", name: "20 Jan 2021 15:00 - 26 Jan 2021 21:00"}
+175
+: 
+{x: 1611694837000, y: 79.9, shop: "Muve Klucze", name: "26 Jan 2021 21:00 - 19 Mar 2021 22:00"}
+176
+: 
+{x: 1616191244000, y: 94.9, shop: "Muve Klucze", name: "19 Mar 2021 22:00 - 6 Apr 2021 17:00"}
+177
+: 
+{x: 1617728450000, y: 107.9, shop: "Muve Klucze", name: "6 Apr 2021 17:00 - 9 Apr 2021 08:00"}
+178
+: 
+{x: 1617955247000, y: 86.9, shop: "Muve Klucze", name: "9 Apr 2021 08:00 - 12 Apr 2021 10:00"}
+179
+: 
+{x: 1618221645000, y: 108.9, shop: "Muve Klucze", name: "12 Apr 2021 10:00 - 16 Apr 2021 11:00"}
+180
+: 
+{x: 1618570836000, y: 84.9, shop: "Muve Klucze", name: "16 Apr 2021 11:00 - 28 Apr 2021 02:00"}
+181
+: 
+{x: 1619575246000, y: 79.9, shop: "Muve Klucze", name: "28 Apr 2021 02:00 - 14 May 2021 09:00"}
+182
+: 
+{x: 1620982832000, y: 84.9, shop: "Muve Klucze", name: "14 May 2021 09:00 - 17 May 2021 10:00"}
+183
+: 
+{x: 1621245636000, y: 150.9, shop: "Muve Klucze", name: "17 May 2021 10:00 - 15 Sep 2021 13:00"}
+184
+: 
+{x: 1631710834000, y: 150.9, shop: "Muve Klucze", name: "17 May 2021 10:00 - 15 Sep 2021 13:00"}
+185
+: 
+{x: 1631710834001, y: null, shop: null, name: null}
+186
+: 
+{x: 1632319262000, y: 80.9, shop: "Muve Klucze", name: "22 Sep 2021 14:01 - 28 Sep 2021 15:01"}
+187
+: 
+{x: 1632841272000, y: 79.9, shop: "Muve Klucze", name: "28 Sep 2021 15:01 - 30 Sep 2021 22:01"}
+188
+: 
+{x: 1633039266000, y: 148.9, shop: "Muve Klucze", name: "30 Sep 2021 22:01 - 8 Oct 2021 16:01"}
+189
+: 
+{x: 1633708860000, y: 148.9, shop: "Muve Klucze", name: "30 Sep 2021 22:01 - 8 Oct 2021 16:01"}
+190
+: 
+{x: 1633708860001, y: null, shop: null, name: null}
+191
+: 
+{x: 1636030849000, y: 91.9, shop: "Muve Klucze", name: "4 Nov 2021 13:00 - 5 Nov 2021 14:00"}
+192
+: 
+{x: 1636120847000, y: 91.9, shop: "Muve Klucze", name: "4 Nov 2021 13:00 - 5 Nov 2021 14:00"}
+193
+: 
+{x: 1636120847001, y: null, shop: null, name: null}
+194
+: 
+{x: 1638194467000, y: 133.9, shop: "Muve Klucze", name: "29 Nov 2021 14:01 - 9 Dec 2021 19:01"}
+195
+: 
+{x: 1639076482000, y: 137.9, shop: "Muve Klucze", name: "9 Dec 2021 19:01 - 13 Dec 2021 11:01"}
+196
+: 
+{x: 1639393272000, y: 90.9, shop: "Muve Klucze", name: "13 Dec 2021 11:01 - 14 Dec 2021 15:00"}
+197
+: 
+{x: 1639494059000, y: 83.9, shop: "Muve Klucze", name: "14 Dec 2021 15:00 - 22 Dec 2021 16:08"}
+198
+: 
+{x: 1640189299000, y: 133.9, shop: "Muve Klucze", name: "22 Dec 2021 16:08 - 29 Dec 2021 20:00"}
+199
+: 
+{x: 1640808059000, y: 139.9, shop: "Muve Klucze", name: "29 Dec 2021 20:00 - 2 Mar 2022 09:05"}
+200
+: 
+{x: 1646211934000, y: 180.9, shop: "Muve Klucze", name: "2 Mar 2022 09:05 - 8 Mar 2022 05:00"}
+201
+: 
+{x: 1646715646000, y: 180.9, shop: "Muve Klucze", name: "2 Mar 2022 09:05 - 8 Mar 2022 05:00"}
+202
+: 
+{x: 1731932561000, y: null, shop: null, name: null}

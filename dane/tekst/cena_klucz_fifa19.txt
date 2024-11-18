@@ -1,0 +1,285 @@
+0
+: 
+{x: 1611100800000, y: 36.91, shop: "Instant Gaming", name: "20 Jan 2021"}
+1
+: 
+{x: 1612137600000, y: 36.84, shop: "Instant Gaming", name: "1 Feb 2021"}
+2
+: 
+{x: 1615680000000, y: 44.36, shop: "Instant Gaming", name: "14 Mar 2021"}
+3
+: 
+{x: 1618272000000, y: 50.06, shop: "GAMIVO", name: "13 Apr 2021"}
+4
+: 
+{x: 1619827200000, y: 47.8, shop: "G2Play", name: "1 May 2021"}
+5
+: 
+{x: 1624752000000, y: 47.64, shop: "K4G.com", name: "27 Jun 2021"}
+6
+: 
+{x: 1625270400000, y: 47.64, shop: "K4G.com", name: "3 Jul 2021"}
+7
+: 
+{x: 1629676800000, y: 49.08, shop: "K4G.com", name: "23 Aug 2021"}
+8
+: 
+{x: 1631577600000, y: 50.46, shop: "Instant Gaming", name: "14 Sep 2021"}
+9
+: 
+{x: 1635033600000, y: 51.49, shop: "CDKeys.com", name: "24 Oct 2021"}
+10
+: 
+{x: 1636588800000, y: 50.44, shop: "K4G.com", name: "11 Nov 2021"}
+11
+: 
+{x: 1638835200000, y: 52.59, shop: "CDKeys.com", name: "7 Dec 2021"}
+12
+: 
+{x: 1642204800000, y: 59.41, shop: "Instant Gaming", name: "15 Jan 2022"}
+13
+: 
+{x: 1645056000000, y: 63.04, shop: "Instant Gaming", name: "17 Feb 2022"}
+14
+: 
+{x: 1648512000000, y: 65.34, shop: "Instant Gaming", name: "29 Mar 2022"}
+15
+: 
+{x: 1649376000000, y: 65.84, shop: "Eneba", name: "8 Apr 2022"}
+16
+: 
+{x: 1653436800000, y: 73.54, shop: "Instant Gaming", name: "25 May 2022"}
+17
+: 
+{x: 1655078400000, y: 205.52, shop: "Kinguin", name: "13 Jun 2022"}
+18
+: 
+{x: 1658620800000, y: 211.96, shop: "G2Play", name: "24 Jul 2022"}
+19
+: 
+{x: 1659830400000, y: 181.07, shop: "Kinguin", name: "7 Aug 2022"}
+20
+: 
+{x: 1662422400000, y: 172.94, shop: "Kinguin", name: "6 Sep 2022"}
+21
+: 
+{x: 1665792000000, y: 177.5, shop: "G2Play", name: "15 Oct 2022"}
+22
+: 
+{x: 1668816000000, y: 155.72, shop: "G2Play", name: "19 Nov 2022"}
+23
+: 
+{x: 1671667200000, y: 203.09, shop: "G2Play", name: "22 Dec 2022"}
+24
+: 
+{x: 1674864000000, y: 287.26, shop: "G2Play", name: "28 Jan 2023"}
+25
+: 
+{x: 1676505600000, y: 283.32, shop: "Kinguin", name: "16 Feb 2023"}
+26
+: 
+{x: 1677888000000, y: 168.24, shop: "G2Play", name: "4 Mar 2023"}
+27
+: 
+{x: 1682121600000, y: 189.71, shop: "G2Play", name: "22 Apr 2023"}
+28
+: 
+{x: 1683072000000, y: 192.02, shop: "G2Play", name: "3 May 2023"}
+29
+: 
+{x: 1687478400000, y: 185.44, shop: "G2Play", name: "23 Jun 2023"}
+30
+: 
+{x: 1690416000000, y: 184.15, shop: "G2Play", name: "27 Jul 2023"}
+31
+: 
+{x: 1691971200000, y: 183.56, shop: "G2Play", name: "14 Aug 2023"}
+32
+: 
+{x: 1693699200000, y: 183.86, shop: "G2Play", name: "3 Sep 2023"}
+33
+: 
+{x: 1697932800000, y: 252.59, shop: "G2Play", name: "22 Oct 2023"}
+34
+: 
+{x: 1700956800000, y: 209.77, shop: "G2Play", name: "26 Nov 2023"}
+35
+: 
+{x: 1703462400000, y: 276.18, shop: "G2Play", name: "25 Dec 2023"}
+36
+: 
+{x: 1706572800000, y: 226.96, shop: "G2Play", name: "30 Jan 2024"}
+37
+: 
+{x: 1708732800000, y: 182.88, shop: "G2Play", name: "24 Feb 2024"}
+38
+: 
+{x: 1710633600000, y: 197.31, shop: "Kinguin", name: "17 Mar 2024"}
+39
+: 
+{x: 1713225600000, y: 190.07, shop: "GAMIVO", name: "16 Apr 2024"}
+40
+: 
+{x: 1717027200000, y: 179.24, shop: "GAMIVO", name: "30 May 2024"}
+41
+: 
+{x: 1719532800000, y: 197.11, shop: "GAMIVO", name: "28 Jun 2024"}
+42
+: 
+{x: 1721606400000, y: 114.85, shop: "GameSeal", name: "22 Jul 2024"}
+43
+: 
+{x: 1722729600000, y: 193.93, shop: "GAMIVO", name: "4 Aug 2024"}
+44
+: 
+{x: 1726012800000, y: 226.25, shop: "Eneba", name: "11 Sep 2024"}
+45
+: 
+{x: 1727740800000, y: 243.62, shop: "Eneba", name: "1 Oct 2024"}
+46
+: 
+{x: 1727827200000, y: 243.85, shop: "Eneba", name: "2 Oct 2024"}
+47
+: 
+{x: 1727913600000, y: 244.2, shop: "Eneba", name: "3 Oct 2024"}
+48
+: 
+{x: 1728000000000, y: 244.81, shop: "Eneba", name: "4 Oct 2024"}
+49
+: 
+{x: 1728086400000, y: 245.39, shop: "Eneba", name: "5 Oct 2024"}
+50
+: 
+{x: 1728172800000, y: 264.64, shop: "Eneba", name: "6 Oct 2024"}
+51
+: 
+{x: 1728259200000, y: 264.62, shop: "Eneba", name: "7 Oct 2024"}
+52
+: 
+{x: 1728345600000, y: 264.42, shop: "Eneba", name: "8 Oct 2024"}
+53
+: 
+{x: 1728432000000, y: 263.95, shop: "Eneba", name: "9 Oct 2024"}
+54
+: 
+{x: 1728518400000, y: 286.42, shop: "Kinguin", name: "10 Oct 2024"}
+55
+: 
+{x: 1728604800000, y: 286.42, shop: "Kinguin", name: "11 Oct 2024"}
+56
+: 
+{x: 1728691200000, y: 306.3, shop: "G2Play", name: "12 Oct 2024"}
+57
+: 
+{x: 1728777600000, y: 306.3, shop: "G2Play", name: "13 Oct 2024"}
+58
+: 
+{x: 1728864000000, y: 306.3, shop: "G2Play", name: "14 Oct 2024"}
+59
+: 
+{x: 1728950400000, y: 306.27, shop: "G2Play", name: "15 Oct 2024"}
+60
+: 
+{x: 1729036800000, y: 306.27, shop: "G2Play", name: "16 Oct 2024"}
+61
+: 
+{x: 1729123200000, y: 306.6, shop: "G2Play", name: "17 Oct 2024"}
+62
+: 
+{x: 1729209600000, y: 307.04, shop: "Kinguin", name: "18 Oct 2024"}
+63
+: 
+{x: 1729296000000, y: 310.96, shop: "Eneba", name: "19 Oct 2024"}
+64
+: 
+{x: 1729382400000, y: 311.01, shop: "Eneba", name: "20 Oct 2024"}
+65
+: 
+{x: 1729468800000, y: 311.03, shop: "Eneba", name: "21 Oct 2024"}
+66
+: 
+{x: 1729555200000, y: 311.59, shop: "Eneba", name: "22 Oct 2024"}
+67
+: 
+{x: 1729641600000, y: 311.93, shop: "Eneba", name: "23 Oct 2024"}
+68
+: 
+{x: 1729728000000, y: 313.25, shop: "Eneba", name: "24 Oct 2024"}
+69
+: 
+{x: 1729814400000, y: 313.68, shop: "Eneba", name: "25 Oct 2024"}
+70
+: 
+{x: 1729900800000, y: 313.9, shop: "Eneba", name: "26 Oct 2024"}
+71
+: 
+{x: 1729987200000, y: 313.92, shop: "Eneba", name: "27 Oct 2024"}
+72
+: 
+{x: 1730073600000, y: 313.91, shop: "Eneba", name: "28 Oct 2024"}
+73
+: 
+{x: 1730160000000, y: 313.89, shop: "Eneba", name: "29 Oct 2024"}
+74
+: 
+{x: 1730246400000, y: 313.38, shop: "Eneba", name: "30 Oct 2024"}
+75
+: 
+{x: 1730332800000, y: 313.76, shop: "Eneba", name: "31 Oct 2024"}
+76
+: 
+{x: 1730419200000, y: 314.35, shop: "Eneba", name: "1 Nov 2024"}
+77
+: 
+{x: 1730505600000, y: 314.81, shop: "Eneba", name: "2 Nov 2024"}
+78
+: 
+{x: 1730592000000, y: 315.17, shop: "Eneba", name: "3 Nov 2024"}
+79
+: 
+{x: 1730678400000, y: 314.26, shop: "Eneba", name: "4 Nov 2024"}
+80
+: 
+{x: 1730764800000, y: 314.28, shop: "Eneba", name: "5 Nov 2024"}
+81
+: 
+{x: 1730851200000, y: 314.73, shop: "Eneba", name: "6 Nov 2024"}
+82
+: 
+{x: 1730937600000, y: 312.93, shop: "Eneba", name: "7 Nov 2024"}
+83
+: 
+{x: 1731024000000, y: 311.71, shop: "Eneba", name: "8 Nov 2024"}
+84
+: 
+{x: 1731110400000, y: 312.09, shop: "Eneba", name: "9 Nov 2024"}
+85
+: 
+{x: 1731196800000, y: 312.25, shop: "Eneba", name: "10 Nov 2024"}
+86
+: 
+{x: 1731283200000, y: 294.78, shop: "G2Play", name: "11 Nov 2024"}
+87
+: 
+{x: 1731369600000, y: 294.78, shop: "G2Play", name: "12 Nov 2024"}
+88
+: 
+{x: 1731456000000, y: 296.04, shop: "G2Play", name: "13 Nov 2024"}
+89
+: 
+{x: 1731542400000, y: 289.37, shop: "G2Play", name: "14 Nov 2024"}
+90
+: 
+{x: 1731628800000, y: 289.08, shop: "G2Play", name: "15 Nov 2024"}
+91
+: 
+{x: 1731715200000, y: 287.85, shop: "Kinguin", name: "16 Nov 2024"}
+92
+: 
+{x: 1731801600000, y: 287.85, shop: "G2Play", name: "17 Nov 2024"}
+93
+: 
+{x: 1731888000000, y: 294.4, shop: "G2Play", name: "18 Nov 2024"}
+94
+: 
+{x: 1731932561000, y: 294.4, shop: "Kinguin", name: "18 Nov 2024 12:22"}
