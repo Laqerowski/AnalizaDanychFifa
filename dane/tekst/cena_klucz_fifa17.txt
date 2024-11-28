@@ -1,0 +1,315 @@
+0
+: 
+{x: 1611619200000, y: 14.08, shop: "G2Play", name: "26 Jan 2021"}
+1
+: 
+{x: 1613952000000, y: 10.49, shop: "CDKeys.com", name: "22 Feb 2021"}
+2
+: 
+{x: 1615507200000, y: 10.49, shop: "CDKeys.com", name: "12 Mar 2021"}
+3
+: 
+{x: 1617321600000, y: 10.79, shop: "CDKeys.com", name: "2 Apr 2021"}
+4
+: 
+{x: 1621123200000, y: 10.79, shop: "CDKeys.com", name: "16 May 2021"}
+5
+: 
+{x: 1622592000000, y: 10.79, shop: "CDKeys.com", name: "2 Jun 2021"}
+6
+: 
+{x: 1626393600000, y: 10.79, shop: "CDKeys.com", name: "16 Jul 2021"}
+7
+: 
+{x: 1629072000000, y: 10.79, shop: "CDKeys.com", name: "16 Aug 2021"}
+8
+: 
+{x: 1630540800000, y: 10.79, shop: "CDKeys.com", name: "2 Sep 2021"}
+9
+: 
+{x: 1634342400000, y: 10.79, shop: "CDKeys.com", name: "16 Oct 2021"}
+10
+: 
+{x: 1637712000000, y: 10.99, shop: "CDKeys.com", name: "24 Nov 2021"}
+11
+: 
+{x: 1639612800000, y: 10.99, shop: "CDKeys.com", name: "16 Dec 2021"}
+12
+: 
+{x: 1642636800000, y: 11.09, shop: "CDKeys.com", name: "20 Jan 2022"}
+13
+: 
+{x: 1643760000000, y: 11.09, shop: "CDKeys.com", name: "2 Feb 2022"}
+14
+: 
+{x: 1648512000000, y: 12.09, shop: "CDKeys.com", name: "29 Mar 2022"}
+15
+: 
+{x: 1648857600000, y: 11.19, shop: "CDKeys.com", name: "2 Apr 2022"}
+16
+: 
+{x: 1652659200000, y: 11.19, shop: "CDKeys.com", name: "16 May 2022"}
+17
+: 
+{x: 1655251200000, y: 10.89, shop: "CDKeys.com", name: "15 Jun 2022"}
+18
+: 
+{x: 1657929600000, y: 10.89, shop: "CDKeys.com", name: "16 Jul 2022"}
+19
+: 
+{x: 1660608000000, y: 11.49, shop: "CDKeys.com", name: "16 Aug 2022"}
+20
+: 
+{x: 1662076800000, y: 11.49, shop: "CDKeys.com", name: "2 Sep 2022"}
+21
+: 
+{x: 1666137600000, y: 11.29, shop: "CDKeys.com", name: "19 Oct 2022"}
+22
+: 
+{x: 1668470400000, y: 10.89, shop: "CDKeys.com", name: "15 Nov 2022"}
+23
+: 
+{x: 1671580800000, y: 11.09, shop: "CDKeys.com", name: "21 Dec 2022"}
+24
+: 
+{x: 1672790400000, y: 10.69, shop: "CDKeys.com", name: "4 Jan 2023"}
+25
+: 
+{x: 1676419200000, y: 21.69, shop: "CDKeys.com", name: "15 Feb 2023"}
+26
+: 
+{x: 1677715200000, y: 21.69, shop: "CDKeys.com", name: "2 Mar 2023"}
+27
+: 
+{x: 1680393600000, y: 21.69, shop: "CDKeys.com", name: "2 Apr 2023"}
+28
+: 
+{x: 1684195200000, y: 21.19, shop: "CDKeys.com", name: "16 May 2023"}
+29
+: 
+{x: 1687996800000, y: 74.19, shop: "CDKeys.com", name: "29 Jun 2023"}
+30
+: 
+{x: 1689465600000, y: 74.19, shop: "CDKeys.com", name: "16 Jul 2023"}
+31
+: 
+{x: 1692230400000, y: 122.76, shop: "Eneba", name: "17 Aug 2023"}
+32
+: 
+{x: 1695340800000, y: 191.84, shop: "G2Play", name: "22 Sep 2023"}
+33
+: 
+{x: 1697155200000, y: 187.78, shop: "G2Play", name: "13 Oct 2023"}
+34
+: 
+{x: 1700438400000, y: 183.29, shop: "G2Play", name: "20 Nov 2023"}
+35
+: 
+{x: 1702598400000, y: 182.46, shop: "G2Play", name: "15 Dec 2023"}
+36
+: 
+{x: 1705708800000, y: 239.36, shop: "G2Play", name: "20 Jan 2024"}
+37
+: 
+{x: 1708992000000, y: 614.79, shop: "Kinguin", name: "27 Feb 2024"}
+38
+: 
+{x: 1711411200000, y: 410.09, shop: "G2Play", name: "26 Mar 2024"}
+39
+: 
+{x: 1712966400000, y: 400.57, shop: "Kinguin", name: "13 Apr 2024"}
+40
+: 
+{x: 1715644800000, y: 265.19, shop: "G2Play", name: "14 May 2024"}
+41
+: 
+{x: 1718668800000, y: 248.98, shop: "G2Play", name: "18 Jun 2024"}
+42
+: 
+{x: 1721779200000, y: 340.21, shop: "GAMIVO", name: "24 Jul 2024"}
+43
+: 
+{x: 1722902400000, y: 287.66, shop: "Eneba", name: "6 Aug 2024"}
+44
+: 
+{x: 1726185600000, y: 310.52, shop: "G2Play", name: "13 Sep 2024"}
+45
+: 
+{x: 1727740800000, y: 313.11, shop: "G2Play", name: "1 Oct 2024"}
+46
+: 
+{x: 1727827200000, y: 313.47, shop: "G2Play", name: "2 Oct 2024"}
+47
+: 
+{x: 1727913600000, y: 313.94, shop: "G2Play", name: "3 Oct 2024"}
+48
+: 
+{x: 1728000000000, y: 314.66, shop: "G2Play", name: "4 Oct 2024"}
+49
+: 
+{x: 1728086400000, y: 315.45, shop: "G2Play", name: "5 Oct 2024"}
+50
+: 
+{x: 1728172800000, y: 316.09, shop: "G2Play", name: "6 Oct 2024"}
+51
+: 
+{x: 1728259200000, y: 316.09, shop: "G2Play", name: "7 Oct 2024"}
+52
+: 
+{x: 1728345600000, y: 316.09, shop: "G2Play", name: "8 Oct 2024"}
+53
+: 
+{x: 1728432000000, y: 315.63, shop: "G2Play", name: "9 Oct 2024"}
+54
+: 
+{x: 1728518400000, y: 314.87, shop: "G2Play", name: "10 Oct 2024"}
+55
+: 
+{x: 1728604800000, y: 314.87, shop: "G2Play", name: "11 Oct 2024"}
+56
+: 
+{x: 1728691200000, y: 314.28, shop: "G2Play", name: "12 Oct 2024"}
+57
+: 
+{x: 1728777600000, y: 314.28, shop: "G2Play", name: "13 Oct 2024"}
+58
+: 
+{x: 1728864000000, y: 314.28, shop: "G2Play", name: "14 Oct 2024"}
+59
+: 
+{x: 1728950400000, y: 310.16, shop: "G2Play", name: "15 Oct 2024"}
+60
+: 
+{x: 1729036800000, y: 310.16, shop: "G2Play", name: "16 Oct 2024"}
+61
+: 
+{x: 1729123200000, y: 310.49, shop: "G2Play", name: "17 Oct 2024"}
+62
+: 
+{x: 1729209600000, y: 310.93, shop: "Kinguin", name: "18 Oct 2024"}
+63
+: 
+{x: 1729296000000, y: 322.16, shop: "G2Play", name: "19 Oct 2024"}
+64
+: 
+{x: 1729382400000, y: 322.16, shop: "G2Play", name: "20 Oct 2024"}
+65
+: 
+{x: 1729468800000, y: 322.16, shop: "G2Play", name: "21 Oct 2024"}
+66
+: 
+{x: 1729555200000, y: 315.08, shop: "Kinguin", name: "22 Oct 2024"}
+67
+: 
+{x: 1729641600000, y: 315.05, shop: "G2Play", name: "23 Oct 2024"}
+68
+: 
+{x: 1729728000000, y: 315.05, shop: "G2Play", name: "24 Oct 2024"}
+69
+: 
+{x: 1729814400000, y: 316.97, shop: "Kinguin", name: "25 Oct 2024"}
+70
+: 
+{x: 1729900800000, y: 316.98, shop: "G2Play", name: "26 Oct 2024"}
+71
+: 
+{x: 1729987200000, y: 317.3, shop: "G2Play", name: "27 Oct 2024"}
+72
+: 
+{x: 1730073600000, y: 317.3, shop: "G2Play", name: "28 Oct 2024"}
+73
+: 
+{x: 1730160000000, y: 317.3, shop: "G2Play", name: "29 Oct 2024"}
+74
+: 
+{x: 1730246400000, y: 317.32, shop: "G2Play", name: "30 Oct 2024"}
+75
+: 
+{x: 1730332800000, y: 317.18, shop: "Kinguin", name: "31 Oct 2024"}
+76
+: 
+{x: 1730419200000, y: 317.18, shop: "G2Play", name: "1 Nov 2024"}
+77
+: 
+{x: 1730505600000, y: 317.52, shop: "G2Play", name: "2 Nov 2024"}
+78
+: 
+{x: 1730592000000, y: 317.77, shop: "G2Play", name: "3 Nov 2024"}
+79
+: 
+{x: 1730678400000, y: 317.77, shop: "G2Play", name: "4 Nov 2024"}
+80
+: 
+{x: 1730764800000, y: 316.89, shop: "Kinguin", name: "5 Nov 2024"}
+81
+: 
+{x: 1730851200000, y: 316.89, shop: "G2Play", name: "6 Nov 2024"}
+82
+: 
+{x: 1730937600000, y: 317.41, shop: "Kinguin", name: "7 Nov 2024"}
+83
+: 
+{x: 1731024000000, y: 317.41, shop: "G2Play", name: "8 Nov 2024"}
+84
+: 
+{x: 1731110400000, y: 335.01, shop: "GAMIVO", name: "9 Nov 2024"}
+85
+: 
+{x: 1731196800000, y: 294.74, shop: "G2Play", name: "10 Nov 2024"}
+86
+: 
+{x: 1731283200000, y: 294.74, shop: "G2Play", name: "11 Nov 2024"}
+87
+: 
+{x: 1731369600000, y: 294.74, shop: "G2Play", name: "12 Nov 2024"}
+88
+: 
+{x: 1731456000000, y: 295.99, shop: "G2Play", name: "13 Nov 2024"}
+89
+: 
+{x: 1731542400000, y: 289.31, shop: "G2Play", name: "14 Nov 2024"}
+90
+: 
+{x: 1731628800000, y: 289.05, shop: "G2Play", name: "15 Nov 2024"}
+91
+: 
+{x: 1731715200000, y: 287.82, shop: "Kinguin", name: "16 Nov 2024"}
+92
+: 
+{x: 1731801600000, y: 287.82, shop: "G2Play", name: "17 Nov 2024"}
+93
+: 
+{x: 1731888000000, y: 294.37, shop: "G2Play", name: "18 Nov 2024"}
+94
+: 
+{x: 1731974400000, y: 294.37, shop: "G2Play", name: "19 Nov 2024"}
+95
+: 
+{x: 1732060800000, y: 294.89, shop: "G2Play", name: "20 Nov 2024"}
+96
+: 
+{x: 1732147200000, y: 295.06, shop: "G2Play", name: "21 Nov 2024"}
+97
+: 
+{x: 1732233600000, y: 288.54, shop: "G2Play", name: "22 Nov 2024"}
+98
+: 
+{x: 1732320000000, y: 296.03, shop: "GAMIVO", name: "23 Nov 2024"}
+99
+: 
+{x: 1732406400000, y: 296, shop: "GAMIVO", name: "24 Nov 2024"}
+100
+: 
+{x: 1732492800000, y: 296.16, shop: "GAMIVO", name: "25 Nov 2024"}
+101
+: 
+{x: 1732579200000, y: 326.18, shop: "GAMIVO", name: "26 Nov 2024"}
+102
+: 
+{x: 1732665600000, y: 325.32, shop: "GAMIVO", name: "27 Nov 2024"}
+103
+: 
+{x: 1732752000000, y: 325.05, shop: "GAMIVO", name: "28 Nov 2024"}
+104
+: 
+{x: 1732787393000, y: 325.05, shop: "GAMIVO", name: "28 Nov 2024"}
